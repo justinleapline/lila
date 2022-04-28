@@ -1,27 +1,3 @@
-<script setup lang="ts">
-import {
-  Popover,
-  PopoverButton,
-  PopoverGroup,
-  PopoverPanel,
-} from '@headlessui/vue';
-import {
-  BookmarkAltIcon,
-  CalendarIcon,
-  ChartBarIcon,
-  CursorClickIcon,
-  MenuIcon,
-  PhoneIcon,
-  PlayIcon,
-  RefreshIcon,
-  ShieldCheckIcon,
-  SupportIcon,
-  ViewGridIcon,
-  XIcon,
-} from '@heroicons/vue/outline';
-import { ChevronDownIcon } from '@heroicons/vue/solid';
-</script>
-
 <template>
   <div class="relative">
     <!-- Lila Heading -->
