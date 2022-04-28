@@ -1,5 +1,9 @@
 <template>
   <div class="relative">
+    <Head>
+      <Title>Lila's Fun Adventure</Title>
+      <Meta name="description" content="Lila's Fun Adventure" />
+    </Head>
     <!-- Lila Heading -->
     <div class="lg:relative bg-lilablue">
       <div
