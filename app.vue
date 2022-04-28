@@ -51,7 +51,7 @@ import { ChevronDownIcon } from '@heroicons/vue/solid';
       >
         <img
           class="absolute inset-0 w-full h-full object-cover"
-          src="img/IMG_2719.jpeg"
+          src="~/assets/img/IMG_2719.jpeg"
           alt=""
         />
       </div>
@@ -120,7 +120,7 @@ import { ChevronDownIcon } from '@heroicons/vue/solid';
           >
             <img
               class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:h-full lg:w-auto lg:max-w-none"
-              src="img/IMG_2721.jpeg"
+              src="~/assets/img/IMG_2721.jpeg"
               alt="Rockin out"
             />
           </div>
@@ -154,7 +154,7 @@ import { ChevronDownIcon } from '@heroicons/vue/solid';
           >
             <img
               class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:h-full lg:w-auto lg:max-w-none"
-              src="img/IMG_2685.jpeg"
+              src="~/assets/img/IMG_2685.jpeg"
               alt="Family"
             />
           </div>
