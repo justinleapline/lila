@@ -9,7 +9,7 @@
   "devDependencies": {
     "@headlessui/vue": "^1.6.0",
     "@heroicons/vue": "^1.0.6",
-    "nuxt": "3.0.0-rc.1",
+    "nuxt": "3.4.3",
     "nuxt-windicss": "^2.3.1"
   }
 }
